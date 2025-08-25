@@ -5,10 +5,10 @@
 [![Data Available](https://img.shields.io/badge/Data-Anonymized-blue)](./data/)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/KK92-ai/indian-chatgpt-usage-study/blob/main/LICENSE)
 
-** Study Period:** August 2025  
-** Sample Size:** 26 users, Real unsanitised 122 unique prompts  
-** Geographic Scope:** 9+ Indian cities  
-** Research Focus:** Cultural patterns in human-AI interaction
+**Study Period:** August 2025  
+**Sample Size:** 26 users, Real unsanitised 122 unique prompts  
+**Geographic Scope:** 9+ Indian cities  
+**Research Focus:** Cultural patterns in human-AI interaction
 
 ---
 
