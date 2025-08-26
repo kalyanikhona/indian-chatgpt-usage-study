@@ -33,11 +33,11 @@ We will be updating this study when we review the next set of prompts and run ou
 
 ### Core Insights
 
-1. Hinglish AI: Indians talk to ChatGPT in "bilingual AI interaction mode," seamlessly blending Hindi and English in prompts (Sanskrit terms appeared too!)
-2. Trust-Based AI Relationships: Indians develop deeper personal relationships with AI than any documented global pattern, seeking advice on health, family and intimate life decisions (so many of you have asked ChatGPT what to do with prolonged fever/cough/sinus, how to deal with a heartbreak etc).
-3. Multi-Domain Chats: Unique "topic-jumping" behaviour where users explore unrelated subjects in single sessions (e.g., sensors→wine→house design→coding). This could also be lack of understanding on the context windows but more on this later.
-4. Age No Bar: Counter to typical patterns, older Indians demonstrate the highest AI interaction sophistication (Noticed people in age 45-55 give very detailed prompts on their medical reports and not use it as Google search which is how I assumed it to be)
-5. Professional AI Integration: All of them are using ChatGPT at workplace (those who do not have company access to ChatGPT end up using ChatGPT from their phone for work tasks).
+1. **Hinglish AI**: Indians talk to ChatGPT in "bilingual AI interaction mode," seamlessly blending Hindi and English in prompts (Sanskrit terms appeared too!)
+2. **Trust-Based AI Relationships**: Indians develop deeper personal relationships with AI than any documented global pattern, seeking advice on health, family and intimate life decisions (so many of you have asked ChatGPT what to do with prolonged fever/cough/sinus, how to deal with a heartbreak etc).
+3. **Multi-Domain Chats**: Unique "topic-jumping" behaviour where users explore unrelated subjects in single sessions (e.g., sensors→wine→house design→coding). This could also be lack of understanding on the context windows but more on this later.
+4. **Age No Bar**: Counter to typical patterns, older Indians demonstrate the highest AI interaction sophistication (Noticed people in age 45-55 give very detailed prompts on their medical reports and not use it as Google search which is how I assumed it to be)
+5. **Professional AI Integration**: All of them are using ChatGPT at workplace (those who do not have company access to ChatGPT end up using ChatGPT from their phone for work tasks).
 
 ---
 
@@ -62,7 +62,7 @@ We will be updating this study when we review the next set of prompts and run ou
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 indian-chatgpt-usage-study/
