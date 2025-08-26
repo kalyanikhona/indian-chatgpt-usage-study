@@ -66,8 +66,8 @@ We will be updating this study when we review the next set of prompts and run ou
 
 ```
 indian-chatgpt-usage-study/
-├── README.md                          # This file
-├── LICENSE                            # CC BY 4.0 License
+├── README.md                          # This file  ✅
+├── LICENSE                            # CC BY 4.0 License  ✅
 ├── methodology/
 │   ├── data-collection-process.md     # Detailed methodology ⚠️
 │   ├── analysis-framework.md          # Research framework ⚠️
@@ -94,12 +94,12 @@ indian-chatgpt-usage-study/
 
 ### Quick Access Links
 
-#### 🔬 **Methodology**
+#### **Methodology**
 - [Data Collection Process](./methodology/data-collection-process.md) - How the 122 prompts were gathered
 - [Analysis Framework](./methodology/analysis-framework.md) - Research approach and categorization method
 - [Validation Approach](./methodology/validation-approach.md) - Quality assurance and verification process
 
-#### 📊 **Analysis & Findings** 
+#### **Analysis & Findings** 
 - [Prompt Patterns Analysis](./notes/01-prompt-patterns-analysis.md) - Hinglish patterns, trust behaviors, sophistication
 - [Demographics & Use Cases](./notes/02-demographics-usecase.md) - Age distribution and usage breakdown  
 - [Pattern Recognition](./notes/03-pattern-recognition.md) - Cultural behaviors and multi-domain curiosity
@@ -109,7 +109,7 @@ indian-chatgpt-usage-study/
 - [Comprehensive Report](./notes/07-comprehensive-report.md) - Complete publication-ready findings
 - [Cross-Dataset Analysis](./notes/08-cross-dataset-analysis.md) - Multi-dataset behavioral comparison
 
-#### 📚 **Academic References**
+#### **Academic References**
 - [Global Studies Bibliography](./academic-references/global-studies-bibliography.md) - International research comparisons
 - [Validation Sources](./academic-references/validation-sources.md) - Cross-verification research base
 
