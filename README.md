@@ -1,4 +1,4 @@
-# Indian ChatGPT Usage Study
+# Indian ChatGPT Usage Study [Part 1]
 ## First-Hand Research Reveals Unique Global AI Interaction Patterns
 
 [![Research Status](https://img.shields.io/badge/Research-Complete-success)](https://github.com/KK92-ai/indian-chatgpt-usage-study)
@@ -8,18 +8,18 @@
 **Study Period:** August 2025  
 **Sample Size:** 26 users, Real unsanitised 122 unique prompts  
 **Geographic Scope:** 9+ Indian cities  
-**Research Focus:** Cultural patterns in human-AI interaction
+**Research Focus:** Behavioural patterns in human-AI interaction
 
 ---
 
 ## About the Researcher
 
-**Kalyani Khona** is an Indian entrepreneur, researcher, and thought leader specializing in Large Language Model behavior patterns and AI-human interaction. She is the co-founder of [Inclov](https://en.wikipedia.org/wiki/Inclov), the world's first matchmaking app for people with disabilities, which served over 100,000 users and won multiple international awards.
+**Kalyani Khona** is an Indian entrepreneur, researcher and thought leader specializing in Large Language Model behavior patterns and AI-human interaction. She is the co-founder of [Inclov](https://en.wikipedia.org/wiki/Inclov), the world's first matchmaking app for people with disabilities, which served over 100,000 users and won multiple international awards.
 
 **Current Research Focus**: 
 - **The Third Frontier**: Publishing AI research at [thirdfrontier.substack.com](https://thirdfrontier.substack.com/)
 - **LLM Behavior Analysis**: Understanding why different LLMs give different answers to the same question
-- **User behaviour on ChatGPT**: How diverse populations adapt AI technology while preserving cultural identity and more
+- **User behaviour on ChatGPT**: How diverse populations adapt AI technology, different use cases and who they trust
 
 **Connect**: [LinkedIn](https://www.linkedin.com/in/kalyanikhona/) | [Substack](https://thirdfrontier.substack.com/) | [GitHub](https://github.com/kk92-ai) | [Email](mailto:santimstudio@gmail.com)
 
@@ -29,13 +29,15 @@
 
 This study presents the first comprehensive analysis of how Indians interact with ChatGPT, revealing **unique AI adoption patterns not documented in global research**. Through direct analysis of 122 real user prompts from 26 Indian users across major cities, we discovered that insights that help us get an early glimpse into how users utilise Chatgpt for personal queries, work related discussions and more.
 
-### Key Discoveries
+We will be updating this study when we review the next set of prompts and run our analysis on it so this is kind of completed but also a live working document. 
 
-1. **Hinglish AI Revolution**: Indians have created the world's first documented "bilingual AI interaction mode," seamlessly blending Hindi and English in prompts
-2. **Trust-Based AI Relationships**: Indians develop deeper personal relationships with AI than any documented global pattern, seeking advice on health, family, and intimate life decisions  
-3. **Multi-Domain Intellectual Curiosity**: Unique "topic-jumping" behavior where users explore unrelated subjects in single sessions (e.g., sensors→wine→house design→coding)
-4. **Age-Sophistication Enhancement**: Counter to typical patterns, older Indians demonstrate the highest AI interaction sophistication
-5. **Professional AI Integration**: 46% work usage with Indians leading AI workplace integration
+### Core Insights
+
+1. Hinglish AI: Indians talk to ChatGPT in "bilingual AI interaction mode," seamlessly blending Hindi and English in prompts (Sanskrit terms appeared too!)
+2. Trust-Based AI Relationships: Indians develop deeper personal relationships with AI than any documented global pattern, seeking advice on health, family and intimate life decisions (so many of you have asked ChatGPT what to do with prolonged fever/cough/sinus, how to deal with a heartbreak etc).
+3. Multi-Domain Chats: Unique "topic-jumping" behaviour where users explore unrelated subjects in single sessions (e.g., sensors→wine→house design→coding). This could also be lack of understanding on the context windows but more on this later.
+4. Age No Bar: Counter to typical patterns, older Indians demonstrate the highest AI interaction sophistication (Noticed people in age 45-55 give very detailed prompts on their medical reports and not use it as Google search which is how I assumed it to be)
+5. Professional AI Integration: All of them are using ChatGPT at workplace (those who do not have company access to ChatGPT end up using ChatGPT from their phone for work tasks).
 
 ---
 
