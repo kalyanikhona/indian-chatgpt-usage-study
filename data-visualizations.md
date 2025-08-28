@@ -29,10 +29,10 @@
 #### 2.1 Prompt Length Analysis
 
 **By Characters**:
-![Average Prompt Length by Characters](visualisation/avg prompt length characters.png)
+![Average Prompt Length by Characters](visualisation/avg%20prompt%20length%20characters.png)
 
 **By Words (Total Prompt)**:
-![Average Prompt Length by Words](visualisation/avg prompt length.png)
+![Average Prompt Length by Words](visualisation/avg%20prompt%20length.png)
 
 **By Words (Per Prompt Average)**:
 ![Average Words per Prompt by Age Group](visualisation/avg-words-per-prompt.png)
