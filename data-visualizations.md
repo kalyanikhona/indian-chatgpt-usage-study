@@ -13,7 +13,7 @@
 
 ### 1. Usage Theme Distribution
 
-![Most Common Themes in ChatGPT Responses](visualisation/themes based on prompt.png)
+![Most Common Themes in ChatGPT Responses](visualisation/themes%20based%20on%20prompt.png)
 
 **Raw Data**:
 - Daily utility and Q&A: 22+ instances
