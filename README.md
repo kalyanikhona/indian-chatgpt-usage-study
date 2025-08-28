@@ -147,6 +147,7 @@ indian-chatgpt-usage-study/
 - This either reflects Indian trust ChatGPT to handle context in the same window and have not been disappointed or they do not know about context window settings as use it as one running chat window
 - Users are using ChatGPT for cross-domain knowledge without changing context windows or starting a new chat for every unique topic.
 
+
 ---
 
 ## Verified Statistical Highlights
@@ -164,6 +165,16 @@ indian-chatgpt-usage-study/
 | **Cultural Code-Switching** | Present in multiple users | Hinglish integration documented |
 
 ---
+## Data Visualizations
+
+Our analysis reveals fascinating patterns in how Indians interact with ChatGPT. Key findings include the "reverse digital divide" where older professionals (46-55) demonstrate 4x higher prompt sophistication than younger users, and "daily utility" dominating usage patterns over creative applications.
+
+**[📊 View Complete Visual Analysis →](./data-visualizations.md)**
+
+### Quick Highlights
+- **Dominant Usage**: Daily utility and Q&A (22+ instances)
+- **Age Sophistication**: 46-55 group averages 470 words per prompt vs 105-210 for other groups
+- **Cultural Pattern**: Practical over creative AI adoption
 
 ## Data Verification & Methodology
 
@@ -215,8 +226,6 @@ indian-chatgpt-usage-study/
 
 - In this small sample, 46-55 shows the longest prompts on average, followed by 26-35, then 18-25, with 36-45 the shortest.
 - Results may be sensitive to outliers given the limited number of responses.
-
-![Description of image](visualisation/avg-prompt-length.png)
 
 ### Data Limitations & Scope
 - **Sample Size**: 26 users (small but high-quality qualitative sample)
