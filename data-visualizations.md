@@ -65,7 +65,7 @@
 
 #### 2.4 External Reference Patterns
 
-![Prompts Containing URLs by Age Group](visualisation/urls-by-age.png)
+![Prompts Containing URLs by Age Group](visualisation/prompts-with-url.png)
 
 **Raw Data**:
 - 18-25: 0% contain URLs
