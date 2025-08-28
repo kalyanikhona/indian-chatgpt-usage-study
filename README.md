@@ -44,7 +44,7 @@ We will be updating this study when we review the next set of prompts and run ou
 ## Research Methodology
 
 ### Data Collection Approach
-- **Primary Method**: Direct LinkedIn survey to 25,000+ connection network
+- **Primary Method**: Google Form sent via Linkedin Post and Whatsapp to 25,000+ connection network
 - **Data Type**: Raw, unedited ChatGPT prompts ("typos, shortcuts, and all")
 - **Anonymization**: 100% anonymous submissions via Google Forms
 - **Authenticity**: No sanitization or improvement of user prompts requested
@@ -56,7 +56,7 @@ We will be updating this study when we review the next set of prompts and run ou
 - **Professional Distribution**: Across industries including tech, healthcare, finance, creative, and education
 
 ### Validation Framework
-- **Data Verification**: [Comprehensive methodology documentation](https://github.com/KK92-ai/indian-chatgpt-usage-study/blob/main/data-verification.md)
+- **Data Verification**: Add link - Comprehensive methodology documentation
 - **Cultural Analysis**: First systematic documentation of cultural-linguistic AI integration patterns
 - **Qualitative Focus**: Direct prompt analysis revealing behavioral nuances behind statistics
 
@@ -118,34 +118,34 @@ indian-chatgpt-usage-study/
 ## Key Research Findings
 
 ### 1. Cultural-Linguistic Innovation
-**Discovery**: Indians created unprecedented "Hinglish AI interaction model"
-- **Evidence**: Natural code-switching in prompts ("ahar, vihar, achar, vichar with respect to sleep")
-- **Global Uniqueness**: No comparable bilingual integration documented in global AI usage studies
-- **Implication**: Successful AI requires cultural-linguistic understanding, not just translation
+- Indians talk to ChatGPT in an unprecedented "Hinglish AI interaction model"
+- Natural code-switching in prompts ("ahar, vihar, achar, vichar with respect to sleep")
+- No comparable bilingual integration documented in global AI usage studies
+- Successful AI requires cultural-linguistic understanding, not just translation
 
 ### 2. Trust-Based AI Relationships  
-**Discovery**: Deepest personal AI integration documented in research
-- **Evidence**: Personal health advice seeking, family decision consultation, life guidance queries
-- **Cultural Context**: Traditional guru-student relationship model adapted for AI
-- **Pattern**: Users develop advisory bonds rather than maintaining transactional relationships
+- Deepest personal AI integration documented in research
+- Personal health advice seeking, family decision consultation, life guidance queries
+- Traditional guru-student relationship model adapted for AI (the human teachers who also acted as slient supportive counselors)
+- Users develop advisory bonds rather than maintaining transactional relationships with their AI search engine (a new paradigm for search)
 
-### 3. Professional Adoption Leadership
-**Discovery**: Highest professional AI integration rates in study sample
-- **Evidence**: 46% work-focused usage across diverse industries
-- **Application Breadth**: Beyond tech - business strategy, content creation, market research  
-- **Integration Depth**: Daily workflow embedding, not occasional tool usage
+### 3. Professional Adoption 
+- Highest professional AI integration rates in study sample
+- 46% work-focused usage across diverse industries
+- Beyond tech/coding - business strategy, content creation, market research  
+- Daily workflow embedding, not occasional tool usage
 
-### 4. Age-Experience Enhancement
-**Discovery**: Older users demonstrate highest AI interaction sophistication 
-- **Evidence**: 46-55 age group (2 users) showed most advanced prompt engineering techniques
-- **Sophisticated Examples**: Meta-prompting, structured formatting, checklist approaches
-- **Qualitative Pattern**: Sophistication increases with professional experience and age
+### 4. Age-Experience 
+- Older users demonstrate high quality AI interaction sophistication 
+- 46-55 age group (2 users) showed advanced prompt engineering techniques
+- Meta-prompting, structured formatting, checklist approaches
+- Sophistication increases with professional experience and age
 
-### 5. Multi-Domain Intellectual Curiosity
-**Discovery**: Unique topic-jumping behavior within single sessions
-- **Evidence**: Users query sensors→wine→house design→coding→logging in one session
-- **Cultural Context**: Reflects Indian broad-based educational philosophy
-- **Pattern**: Cross-domain knowledge seeking not systematically documented elsewhere
+### 5. Multi-Domain Single Window Chats 
+- Unique topic-jumping behavior within single sessions
+- Users query sensors→wine→house design→coding→logging in one session
+- This either reflects Indian trust ChatGPT to handle context in the same window and have not been disappointed or they do not know about context window settings as use it as one running chat window
+- Users are using ChatGPT for cross-domain knowledge without changing context windows or starting a new chat for every unique topic.
 
 ---
 
@@ -168,7 +168,7 @@ indian-chatgpt-usage-study/
 ## Data Verification & Methodology
 
 ### Verified Sample Composition
-- **Total Users**: 26 respondents from LinkedIn network (25,000+ connections)
+- **Total Users**: 26 respondents from LinkedIn + Whatsapp network (25,000+ connections)
 - **Total Prompts**: 122 unique ChatGPT prompts analyzed
 - **Geographic Coverage**: 9+ Indian cities (Mumbai, Bangalore, Delhi, Hyderabad, Pune, Gurgaon, others)
 - **Collection Method**: Direct anonymous submission via Google Forms
@@ -194,7 +194,7 @@ indian-chatgpt-usage-study/
 ### Usage Frequency (Verified)
 - **Daily Users**: 22/26 (85%)
 - **Few times per week**: 4/26 (15%)
-- **Average prompts per user**: 4.7 (122 ÷ 26)
+- **Average prompts submitted per user**: 4.7 (122 ÷ 26)
 
 ### Cultural Integration Elements (Documented)
 **Hinglish Code-Switching Examples**:
@@ -213,7 +213,7 @@ indian-chatgpt-usage-study/
 
 ### Data Limitations & Scope
 - **Sample Size**: 26 users (small but high-quality qualitative sample)
-- **Network Bias**: LinkedIn professional network (may skew towards educated, urban users)
+- **Network Bias**: LinkedIn and Whatsapp professional network (may skew towards educated, urban users)
 - **Language Bias**: English-educated population (may not represent rural/non-English users)
 - **Temporal Scope**: August 2025 collection period
 - **Geographic Concentration**: Major Indian cities, limited rural representation
@@ -225,9 +225,9 @@ indian-chatgpt-usage-study/
 ## Business & Academic Implications
 
 ### For AI Companies
-- **Cultural Adaptation Critical**: One-size-fits-all AI inadequate for diverse markets
-- **Trust-Building Priority**: Personal trust based relationships drive professional adoption  
-- **Linguistic Innovation**: Multilingual cultural integration represents future direction
+- One-size-fits-all AI inadequate for diverse markets
+- Personal trust based relationships drive professional adoption  
+- Multilingual cultural integration represents future direction
 
 ### For Indian Businesses  
 - **Competitive Advantage**: Most sophisticated AI-integrated workforce in sample
@@ -236,7 +236,7 @@ indian-chatgpt-usage-study/
 
 ### For Researchers
 - **Methodology Framework**: Direct prompt analysis more revealing than surveys
-- **Cultural Context Gap**: Current research misses cultural integration patterns
+- **Cultural Context Gap**: Current research misses cultural integration and behaviourial patterns
 - **Market Diversity**: Need for region-specific AI adoption studies
 
 ---
