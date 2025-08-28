@@ -154,7 +154,12 @@ visualizations
 - This either reflects Indian trust ChatGPT to handle context in the same window and have not been disappointed or they do not know about context window settings as use it as one running chat window
 - Users are using ChatGPT for cross-domain knowledge without changing context windows or starting a new chat for every unique topic.
 
+### Common Prompt Topics by Age Group
 
+18–25: tech/data and programming-adjacent cues show up.
+26–35: mix of practical asks (finance/EBITDA), creation/needs and varied topics.
+36–45: India/AI/business and wastewater-related terms appear, suggesting professional/work topics.
+46–55: planning, concise writing, LinkedIn, and checklist language dominate, indicating structured writing/tasking.
 ---
 
 ## Verified Statistical Highlights
