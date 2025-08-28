@@ -211,6 +211,13 @@ indian-chatgpt-usage-study/
 - Family decision consultation examples
 - Life guidance and personal situation queries
 
+**Average Prompt Length by Age Group**
+
+- In this small sample, 46-55 shows the longest prompts on average, followed by 26-35, then 18-25, with 36-45 the shortest.
+- Results may be sensitive to outliers given the limited number of responses.
+
+![Description of image](visualisation/avg-prompt-length.png)
+
 ### Data Limitations & Scope
 - **Sample Size**: 26 users (small but high-quality qualitative sample)
 - **Network Bias**: LinkedIn and Whatsapp professional network (may skew towards educated, urban users)
