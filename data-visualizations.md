@@ -75,7 +75,8 @@
 
 ### 3. Usage Frequency Correlation
 
-![Average Prompt Length by Usage Frequency](visualisation/usage-frequency-prompt-length.png)
+![Average Prompt Length by Usage Frequency](visualisation/avg-prompt-length-daily-frequency.png)
+
 
 **Raw Data**:
 - Daily users: 200 words per prompt
