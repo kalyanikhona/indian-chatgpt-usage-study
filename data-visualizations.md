@@ -35,7 +35,7 @@
 ![Average Prompt Length by Words](visualisation/avg%20prompt%20length.png)
 
 **By Words (Per Prompt Average)**:
-![Average Words per Prompt by Age Group](visualisation/avg-words-per-prompt.png)
+![Average Words per Prompt by Age Group](visualisation/avg-word-per-prompt.png)
 
 **Raw Data**:
 - 18-25: 900 characters, 165 total words, 20 words per prompt
