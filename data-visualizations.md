@@ -85,7 +85,7 @@
 
 ### 4. Primary Use Case Analysis
 
-![Average Prompt Length by Primary Use](visualisation/primary-use-prompt-length.png)
+![Average Prompt Length by Primary Use](visualisation/avg-prompt-length-theme-wise.png)
 
 **Raw Data**:
 - "All of the above": 375 words per prompt
@@ -181,6 +181,20 @@
 
 **Trust-Based Relationship Development**: Daily users demonstrate 2x higher communication investment, suggesting advisory rather than transactional AI relationships.
 
+### Hedging as Behaviour
+
+Hedging is "near-zero for 46-55" suggests:
+
+- Older professionals communicate more directly with ChatGPT
+- They're more confident in their requests
+- They treat AI as a tool rather than a social interaction requiring politeness
+
+The pattern "highest in 26-45 age range" indicates:
+
+- Mid-career professionals may feel less certain about AI interactions
+- They might apply more social politeness norms to AI communication
+- Could reflect workplace communication habits (being diplomatic/indirect)
+
 ### Market Implications
 
 **For AI Development**:
@@ -195,23 +209,7 @@
 
 ---
 
-## V. Future Research Directions
-
-### Immediate Extensions
-- **Rural Population Study**: Non-English speaking user patterns
-- **Industry-Specific Analysis**: Sectoral usage deep dives
-- **Longitudinal Tracking**: Usage evolution over time
-- **Comparative Cultural Analysis**: Other multilingual markets
-
-### Advanced Analysis
-- **Prompt Quality Scoring System**: Quantitative sophistication metrics  
-- **Cultural Integration Index**: Hinglish and cultural element measurement
-- **Cross-Platform Behavioral Comparison**: ChatGPT vs. Claude vs. Gemini patterns
-- **Professional ROI Analysis**: Productivity impact measurement
-
----
-
-## VI. Citation & Usage
+## V. Citation & Usage
 
 ### Academic Citation
 ```bibtex
