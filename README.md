@@ -81,6 +81,13 @@ indian-chatgpt-usage-study/
 │   ├── 06-global-studies-comparison.md# Global comparative analysis ⚠️
 │   ├── 07-comprehensive-report.md     # Publication-ready findings ⚠️
 │   └── 08-cross-dataset-analysis.md   # Multi-dataset behavioral comparison ⚠️
+visualizations
+├── data-visualizations.md        # New comprehensive visualizations file
+├── LICENSE                       
+└── visualisation/
+    ├── avg prompt length characters.png
+    ├── avg prompt length.png  
+    └── themes based on prompt.png
 ├── academic-references/
 │   ├── global-studies-bibliography.md # Referenced research ⚠️
 │   └── validation-sources.md          # Cross-validation sources ⚠️
