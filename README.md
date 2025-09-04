@@ -4,6 +4,7 @@
 [![Research Status](https://img.shields.io/badge/Research-Complete-success)](https://github.com/KK92-ai/indian-chatgpt-usage-study)
 [![Data Available](https://img.shields.io/badge/Data-Anonymized-blue)](./data/)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/KK92-ai/indian-chatgpt-usage-study/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17054589.svg)](https://doi.org/10.5281/zenodo.17054589)
 
 **Study Period:** August 2025  
 **Sample Size:** 26 users, Real unsanitised 122 unique prompts  
