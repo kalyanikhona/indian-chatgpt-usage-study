@@ -4,7 +4,7 @@
 [![Research Status](https://img.shields.io/badge/Research-Complete-success)](https://github.com/KK92-ai/indian-chatgpt-usage-study)
 [![Data Available](https://img.shields.io/badge/Data-Anonymized-blue)](./data/)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/KK92-ai/indian-chatgpt-usage-study/blob/main/LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17054590.svg)](https://doi.org/10.5281/zenodo.17054590)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17063064.svg)](https://doi.org/10.5281/zenodo.17063064)
 
 **Study Period:** August 2025  
 **Sample Size:** 40 users, Real unsanitised 238 unique prompts  
@@ -297,7 +297,7 @@ Users seamlessly transition between:
   year={2025},
   month={August},
   note={GitHub repository: https://github.com/KK92-ai/indian-chatgpt-usage-study},
-  doi={10.5281/zenodo.17054590}
+  doi={10.5281/zenodo.17063064}
 }
 
 ```
