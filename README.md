@@ -117,9 +117,9 @@ indian-chatgpt-usage-study/
 │   ├── 02-demographics-usecase.md     # Age and use case breakdown ✅
 │   ├── 03-pattern-recognition.md      # Behavioral pattern study ✅
 │   ├── 04-india-studies-comparison.md # Academic validation (India) ✅
-│   ├── 05-global-studies-comparison.md# Global comparative analysis ⚠️
-│   ├── 06-comprehensive-report.md     # Publication-ready findings ⚠️
-│   └── 07-cross-dataset-analysis.md   # Multi-dataset behavioral comparison ⚠️
+│   ├── 05-global-studies-comparison.md# Global comparative analysis ✅
+│   ├── 06-wildchat-vs-indianchatgpt.md    # Multi-dataset behavioral comparison ✅
+│   └── 07-conclusion.md   # Conclusion ⚠️
 visualizations
 ├── data-visualizations.md        # New comprehensive visualizations file
 ├── LICENSE                       
