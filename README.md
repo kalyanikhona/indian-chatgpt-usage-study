@@ -56,6 +56,20 @@ This study presents the first comprehensive analysis of how Indians interact wit
 - **Authenticity**: No sanitization or improvement of user prompts requested
 - **Response Rate**: 97.5% provided substantial prompts, 62.5% provided cultural observations
 
+### Statistical Methodology Note
+
+**Denominators Used in Analysis:**
+- **User-based statistics** (e.g., age distributions, usage frequency): Based on 40 total users
+- **Prompt-based statistics** (e.g., cultural context patterns, linguistic analysis): Based on 238 total prompts  
+- **Behavioral pattern analysis**: Based on 39 users who provided substantial prompts (97.5% response rate)
+
+**Sample Size Reliability Thresholds:**
+- **Reliable conclusions**: Groups with n≥7 users
+- **Limited analysis**: Groups with n=5-6 users  
+- **Insufficient for conclusions**: Groups with n≤4 users (explicitly noted)
+
+All percentages include explicit denominators for transparency (e.g., "17/40 users (42.5%)").
+
 ### Sample Demographics
 - **Age Distribution**: 57.5% millennials (26-35), 20% Gen Z (18-25), 17.5% Gen X (36-45), 5% seniors (46-55)
 - **Geographic Coverage**: Mumbai, Bangalore, Delhi, Bengaluru, Gurgaon, Pune, Hyderabad, and 8+ other cities
@@ -118,12 +132,12 @@ indian-chatgpt-usage-study/
 │   ├── 03-pattern-recognition.md      # Behavioral pattern study 
 │   ├── 04-india-studies-comparison.md # Academic validation (India) 
 │   ├── 05-global-studies-comparison.md# Global comparative analysis 
-│   ├── 06-wildchat-vs-indianchatgpt.md    # Multi-dataset behavioral comparison 
-│   └── 07-conclusion.md   # Conclusion 
+│   ├── 06-wildchat-vs-indianchatgpt.md# Multi-dataset behavioral comparison 
+│   └── 07-conclusion.md              # Conclusion 
 ├── academic-references/
 │   ├── global-studies-bibliography.md # Referenced research 
 │   └── validation-sources.md          # Cross-validation sources 
-└── LICENSE                           # CC BY 4.0 License 
+└── LICENSE                            # CC BY 4.0 License 
 ```
 
 ## Research Findings
@@ -205,7 +219,14 @@ Users seamlessly transition between:
 | 36-45 | 7 users | 17.5% | Limited sample |
 | 46-55 | 2 users | 5% | **Too small for conclusions** |
 
-**Important Note**: Any insights about the 46-55 age group are unreliable due to sample size (n=2) and require validation through larger studies.
+### ⚠️ **Critical Sample Size Limitation**
+
+**46-55 Age Group (n=2): INSUFFICIENT FOR RELIABLE CONCLUSIONS**
+- Any patterns observed in this group could be individual differences rather than age-group characteristics
+- No demographic conclusions possible with only 2 users
+- Requires minimum 15-20 users per age group for statistical reliability
+- All other age groups have sufficient samples for analysis
+
 
 ### Primary Use Case Distribution
 | Use Case Category | User Count | Percentage | Notes |
@@ -296,6 +317,29 @@ Apply methodology framework to other cultural contexts or time periods
 **LinkedIn**: [linkedin.com/in/kalyanikhona](https://www.linkedin.com/in/kalyanikhona/)  
 **Substack**: [The Third Frontier](https://thirdfrontier.substack.com/)  
 **Academic Collaboration**: Open to partnerships for extended research  
+
+## Dataset Availability and Limitations
+
+### Raw Data Access
+**Note:** The underlying raw CSV dataset (40 users, 238 prompts) is **not included** in this public repository to protect participant privacy and ensure proper data governance.
+
+**What's Available:**
+- ✅ Complete anonymized analysis and findings
+- ✅ Verified statistical summaries  
+- ✅ User-generated cultural observations (anonymized)
+- ✅ Methodology documentation for replication
+- ✅ All code and analysis frameworks
+
+**What's Not Included:**
+- ❌ Raw CSV with individual user prompts
+- ❌ Original participant responses
+- ❌ Any potentially identifying information
+
+**For Researchers:** Contact [santimstudio@gmail.com](mailto:santimstudio@gmail.com) for discussions about data access for academic validation studies under appropriate ethical protocols.
+
+### Data Verification
+All statistics and findings in this repository are directly verifiable against the raw dataset. The research maintains complete reproducibility while protecting participant privacy.
+
 
 ### Future Research Partnerships
 Available for collaboration on:
