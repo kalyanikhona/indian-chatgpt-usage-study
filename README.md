@@ -116,7 +116,6 @@ indian-chatgpt-usage-study/
 │   ├── 01-prompt-patterns-analysis.md # Structural pattern analysis ⚠️
 │   ├── 02-demographics-usecase.md     # Age and use case breakdown ⚠️
 │   ├── 03-pattern-recognition.md      # Behavioral pattern study ⚠️
-│   ├── 04-ten-unique-insights.md      # Key discoveries synthesis ⚠️  
 │   ├── 05-india-studies-comparison.md # Academic validation (India) ⚠️
 │   ├── 06-global-studies-comparison.md# Global comparative analysis ⚠️
 │   ├── 07-comprehensive-report.md     # Publication-ready findings ⚠️
