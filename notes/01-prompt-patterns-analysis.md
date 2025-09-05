@@ -3,6 +3,7 @@
 **Dataset:** 40 users, 238 individual prompts  
 **Analysis Focus:** Technical prompt characteristics, behavioral patterns, cohort analysis  
 **Collection:** August 2025, Raw unedited submissions
+**Data Verification:** All statistics directly extracted from raw CSV data
 
 ---
 
