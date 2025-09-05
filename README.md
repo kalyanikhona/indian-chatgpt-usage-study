@@ -1,4 +1,4 @@
-# Indian ChatGPT Usage Study [Part 1]
+# Indian ChatGPT Usage Study 
 ## First-Hand Research Reveals Unique Human-AI Interaction Patterns
 
 [![Research Status](https://img.shields.io/badge/Research-Complete-success)](https://github.com/KK92-ai/indian-chatgpt-usage-study)
@@ -73,7 +73,7 @@ This study presents the first comprehensive analysis of how Indians interact wit
 
 ### Context and Limitations
 
-I want to be upfront about what this study is and isn't. We asked 40 Indian ChatGPT users to share their last 5 prompts - unedited, raw, and real - in August 2025. This isn't a traditional survey. We weren't asking people what they think about ChatGPT or how they use it. We asked them to copy-paste exactly what they had typed into ChatGPT recently. That's a small sample, and I'm not claiming it represents all of India or even all Indian ChatGPT users. But I think there are some aspects of our approach that make the data useful despite the size.
+I want to be upfront about what this study is and isn't. We asked 40 Indian ChatGPT users to share their last 5 prompts - unedited, raw, and real - in August 2025. This isn't a traditional survey. We weren't asking people what they think about ChatGPT or how they use it. We asked them to copy-paste exactly what they had typed into ChatGPT recently. That's a small sample and I'm not claiming it represents all of India or even all Indian ChatGPT users. But I think there are some aspects of our approach that make the data useful despite the size.
 
 ### What We Actually Did Differently
 
@@ -82,14 +82,14 @@ Instead of asking people "How do you use ChatGPT?" we asked them to copy-paste t
 
 39 out of 40 people did this. That surprised me - I expected more people to skip this question or give generic examples. We ended up with 238 real prompts to analyze.
 
-Most studies I've read ask people to recall or describe their usage. Memory is unreliable, and people tend to give socially acceptable answers. Having actual prompts lets us see what people really ask about, how they phrase things, and what their actual workflows look like.
+Most studies I've read ask people to recall or describe their usage in a Q&A survey format. Memory is unreliable and people tend to give socially acceptable answers. Having actual prompts lets us see what people really ask about, how they phrase things, and what their actual workflows look like.
 
 **User-Generated Cultural Analysis**
 We asked users: "Any observations about how you or other Indians use ChatGPT differently?" 
 
 25 people gave thoughtful responses. These weren't just demographics - users were analyzing their own community's patterns. Things like "Indians want pizza in 10 minutes, that's how they use ChatGPT" or noting that people use it as a therapy substitute because professional therapy is expensive in India.
 
-I couldn't have identified these patterns from the outside. The users had to tell me.
+I couldn't have identified these patterns from the outside. The participants had to tell me.
 
 ### Research Value and Future Validation
 
